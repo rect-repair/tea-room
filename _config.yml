@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme
 
 title: tea room
-description: tea
-show_downloads: true
+description: all tea
+show_downloads: false
