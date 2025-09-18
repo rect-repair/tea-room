@@ -2,6 +2,6 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: tea room
-description: 一个每月举办的关于“playful media（好玩的媒介）”的创作者分享和试玩聚会。这里希望成为一个开放、自由、轻松的场域，让大家可以分享、试玩做完或者没做完的项目和创作，一起探索游戏、艺术、技术作为好玩的媒介的无限可能性 (・_・).｡oO
+title: 茶水间[]/Tea Room[]
+description: 茶水间是一个每月举办的关于“playful media（好玩的媒介）”的创作者分享和试玩聚会。这里希望成为一个开放、自由、轻松的场域，让大家可以分享、试玩做完或者没做完的项目和创作，一起探索游戏、艺术、技术作为好玩的媒介的无限可能性 (・_・).｡oO / "tea room" is a monthly gathering for creators to share and playtest things around the theme of playful media. We hope it can be an open, free, and relaxed space where people can present and playtest works—finished or unfinished—and explore together the endless possibilities of games, art, and technology as something playful. (・_・).｡oO
 show_downloads: false

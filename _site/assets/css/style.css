@@ -215,10 +215,13 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
   .downloads li, .downloads li + li + li { width: 33%; } }
 @media print { body { padding: 0.4in; font-size: 12pt; color: #444; } }
 /* Font */
-body { font-family: IBMVGA8, monospace; font-size: 14px; line-height: 1.4; background-color: #f6f5ed; color: #000000; font-synthesis: weight; font-weight: 700; /* Dot pattern to simulate kicad */ background-image: radial-gradient(#d0cec2 0.6px, transparent 0.6px); background-size: 14px 14px; }
+body { font-family: IBMVGA8, monospace; font-size: 12px; line-height: 1.2; background-color: #f6f5ed; color: #000000; font-synthesis: weight; font-weight: 700; /* Dot pattern to simulate kicad */ background-image: radial-gradient(#d0cec2 0.6px, transparent 0.6px); background-size: 14px 14px; }
 
 /* Chinese text*/
 :lang(zh), :lang(zh-CN), :lang(zh-Hans) { font-family: "PingFang SC", "Noto Sans SC", "Microsoft YaHei", "Heiti SC", "Source Han Sans SC", "SimSun", serif; font-weight: 700; }
+
+/* Hide GitHub project link in header */
+header p.view { display: none; }
 
 /* Links */
 a, a:visited { color: #0300a7; }
