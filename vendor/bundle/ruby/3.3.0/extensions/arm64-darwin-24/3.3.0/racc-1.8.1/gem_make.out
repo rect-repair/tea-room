@@ -1,0 +1,18 @@
+current directory: /Users/joannamac/dev/tea-room/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/joannamac/.rbenv/versions/3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/joannamac/dev/tea-room/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250918-49456-jfc3p sitelibdir\=./.gem.20250918-49456-jfc3p clean
+
+current directory: /Users/joannamac/dev/tea-room/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250918-49456-jfc3p sitelibdir\=./.gem.20250918-49456-jfc3p
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/joannamac/dev/tea-room/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250918-49456-jfc3p sitelibdir\=./.gem.20250918-49456-jfc3p install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250918-49456-jfc3p/racc
+
+current directory: /Users/joannamac/dev/tea-room/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250918-49456-jfc3p sitelibdir\=./.gem.20250918-49456-jfc3p clean

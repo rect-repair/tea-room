@@ -1,0 +1,52 @@
+---
+--- 
+@import "{{ site.theme }}";
+
+/* Font */
+body {
+  font-family: IBMVGA8, monospace;
+  font-size: 14px;
+  line-height: 1.4;
+  background-color: #f6f5ed;
+  color: #000000;
+  font-synthesis: weight;
+  font-weight: 700;
+  /* Dot pattern to simulate kicad */
+  background-image: radial-gradient(#d0cec2 0.6px, transparent 0.6px);
+  background-size: 14px 14px;
+}
+
+/* Chinese text*/
+:lang(zh),
+:lang(zh-CN),
+:lang(zh-Hans) {
+  font-family: "PingFang SC", "Noto Sans SC", "Microsoft YaHei", "Heiti SC", "Source Han Sans SC", "SimSun", serif;
+  font-weight: 700;
+}
+
+/* Links */
+a,
+a:visited {
+  color: #0300a7;
+}
+
+a:hover,
+a:focus {
+  color: #001a76;
+}
+
+/* Headings */
+h1 {
+  color: #7c0000;
+}
+
+h2 {
+  color: #090096;
+}
+
+/* Image sizing */
+section img {
+  max-width: 40%;
+  height: auto;
+}
+
