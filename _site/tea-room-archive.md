@@ -1,4 +1,4 @@
-# 茶水间[往期]/Tea Room[Archive]
+# 茶水间[归档]/Tea Room[Archive]
 *往期记录( ´ー`)つ🍵 ……*
 *Previously...*
 
@@ -75,7 +75,7 @@
 ![poster-2](https://i.pinimg.com/736x/f8/29/e8/f829e8f02a294b5f6894405c3858778b.jpg)  
 *25/09/13*
 
-| 👥 | ✉️ |
+| 👥 | ㊥ | ☕️
 |----------|----------|
 | @v10101a   | 做一个（美丽的）（个人）网站| Making a (beautiful) (personal) website |
 | john brumley   | 微重力放松表演工具包   | Microgravity Relaxation Performance Toolkit |
@@ -84,5 +84,9 @@
 | 果冻+ LJ   |极限飞盘的改编桌游，来自嬉皮士运动的游戏| adapted tabletop version of ultimate frisbee, inspired by games of the hippie movement |
 | Coin Leung, 小牛不吃草, jeremybender | 合肥地摊游戏大调查| Street Game Investigation in Hefei |
 | 花卷| 模拟上海方言变迁的游戏《腔调》& 哲学桌游《现象学还原》| a game simulating the evolution of the Shanghai dialect, and "Phenomenological Reduction" a philosophy-inspired board game|
+|阿听|需要扮演小狗的合作推理桌游 | A collaborative deduction tabletop game where player roleplay as puppy
+|Julia|能够和NPC斗智斗趣的陶艺治愈游戏 | a meditative ceramic game where you challenges the NPC |
+|花生|游戏叙事中的认知干预研究分享 | a study on cognitive interventions in game narrative |
+|彗星|一家研发黑暗料理的深夜食堂游戏 | a game about a midnight diner serving uncanny dishes |
 
 ## Updating...
