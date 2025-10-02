@@ -1,6 +1,9 @@
 # [归档]/[Archive]
-*往期记录( ´ー`)つ🍵 ……*
-*Previously...*
+
+| 关于茶水间 ㊥ | About tea room ☕️ | 
+|茶水间是一个每月举办的关于“playful media（好玩的媒介）”的创作者分享和试玩聚会。 这里希望成为一个开放、自由、轻松的场域，让大家可以分享、试玩做完或者没做完的项目和创作，一起探索游戏、艺术、技术作为好玩的媒介的无限可能性。(・_・).｡oO| "tea room" is a monthly meetup for creators to share and playtest things around the theme of playful media. We hope it can be an open, free, and relaxed space where people can present and playtest works—finished or unfinished—and explore together the endless possibilities of games, art, and technology as something playful.(・_・).｡oO |
+
+ organized by [修四边形/[[rect*]]repair](https://rect-repair.github.io/website/)
 
 ## 茶水间[1]
 *25/04/03*
