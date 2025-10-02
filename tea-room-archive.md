@@ -5,7 +5,7 @@
 
  organized by [修四边形/[[rect*]]repair](https://rect-repair.github.io/website/)
 
-## 茶水间[1]
+## 茶水间[1]/Tea Room[1]
 *25/04/03*
 
 ![poster-1](https://i.pinimg.com/736x/49/ff/b5/49ffb56d62895b0f0eaffdb096fbcd66.jpg)  
@@ -40,7 +40,7 @@
 | 27 | Paprika | 一个双人博弈的桌游原型和它还不太可玩的电子游戏 |
 | 28 | 禾芊蔚Haux | 钻木取火引发的角色生存剧场和身心系统拓展的思考 |
 
-## 茶水间[2]
+## 茶水间[2]/Tea Room[2]
 ![poster-2](https://i.pinimg.com/736x/53/e5/06/53e506d30662181fd29c1395f95c2fb4.jpg)  
 *25/07/04*
 
@@ -59,7 +59,7 @@
 | Gogo和树 | 为AI画羊，AI描述各种稀奇古怪的羊，玩家要尽力画到AI认可为止 |
 
 
-## 茶水间[3]
+## 茶水间[3]/Tea Room[3]
 ![poster-2](https://i.pinimg.com/736x/a9/96/52/a99652bd92abbabe51003d690c866ef0.jpg)  
 *25/08/09*
 
@@ -76,7 +76,7 @@
 | RA0306 | 使用TouchDesigner制作的音画交互系统，连接midi现场演奏将点亮画面中的音柱。灵感源于音乐中的十二平均律。音柱的图像设计也和贝壳式的对数螺旋形态一致。 |
 | 刀刀 | 跟朋友们在便利店做Screen-Free小游戏然后卖掉 |
 
-## 茶水间[4]
+## 茶水间[4]/Tea Room[4]
 ![poster-2](https://i.pinimg.com/736x/f8/29/e8/f829e8f02a294b5f6894405c3858778b.jpg)  
 *25/09/13*
 
