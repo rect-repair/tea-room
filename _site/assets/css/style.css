@@ -223,6 +223,10 @@ body { font-family: IBMVGA8, monospace; font-size: 12px; line-height: 1.2; backg
 /* Hide GitHub project link in header */
 header p.view { display: none; }
 
+/* Make footer not sticky */
+footer { position: static !important; float: none !important; width: 100% !important; max-width: 100% !important; bottom: auto !important; clear: both; }
+footer p { white-space: normal; word-wrap: break-word; max-width: 100%; }
+
 /* Links */
 a, a:visited { color: #0300a7; }
 
@@ -235,3 +239,6 @@ h2 { color: #090096; }
 
 /* Image sizing */
 section img { max-width: 40%; height: auto; }
+
+/* Wider content on desktop */
+@media screen and (min-width: 961px) { section { width: 800px; } }

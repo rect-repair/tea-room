@@ -29,6 +29,22 @@ header p.view {
   display: none;
 }
 
+/* Make footer not sticky */
+footer {
+  position: static !important;
+  float: none !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  bottom: auto !important;
+  clear: both;
+  
+  p {
+    white-space: normal;
+    word-wrap: break-word;
+    max-width: 100%;
+  }
+}
+
 /* Links */
 a,
 a:visited {
@@ -53,5 +69,12 @@ h2 {
 section img {
   max-width: 40%;
   height: auto;
+}
+
+/* Wider content on desktop */
+@media screen and (min-width: 961px) {
+  section {
+    width: 800px;
+  }
 }
 
