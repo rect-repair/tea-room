@@ -29,6 +29,22 @@ header p.view {
   display: none;
 }
 
+/* Make header not sticky/floating */
+header {
+  position: static !important;
+  float: none !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  clear: both;
+}
+
+/* Make section flow normally */
+section {
+  float: none !important;
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
 /* Make footer not sticky */
 footer {
   position: static !important;

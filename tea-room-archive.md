@@ -4,6 +4,19 @@
 |茶水间是一个[修四边形](https://rect-repair.github.io/)每月举办的关于“playful media（好玩的媒介）”的创作者分享和试玩聚会。 这里希望成为一个开放、自由、轻松的场域，让大家可以分享、试玩做完或者没做完的项目和创作，一起探索游戏、艺术、技术作为好玩的媒介的无限可能性。| "tea room" is a monthly meetup hosted by [[rect*]repair](https://rect-repair.github.io/) for creators to share and playtest things around the theme of playful media. |
 
 
+## 茶水间[6]/Tea Room[6]
+![poster-6](https://i.pinimg.com/736x/ad/3f/1a/ad3f1a67ed671313810f7d9b13511781.jpg)  
+*25/11/21*
+
+| 👥 | ㊥ | ☕️
+|----------|----------|----------|
+| 王懿EAU | 从0开始制作一台人工声音制造机 | building a synthetic sound machine from 0 |
+| 黑眼圈 | 3天，3分钟，情绪应该怎么写 | 3 days, 3 Minutes, how should emotion be written |
+| 周莲岸 | 老式DV做灯光秀 | using old DV Camera for vj |
+| CHOCHO | 厨房里的即兴练习 | improv practices in the kitchen |
+
+
+
 ## 茶水间[5]/Tea Room[5]
 ![poster-2](https://i.pinimg.com/736x/eb/ce/08/ebce082df7c2a0fa000a6b6457f261a4.jpg)  
 *25/10/19*
@@ -45,7 +58,7 @@
 
 |----------|----------|----------|
 | Yulin | 从学术角度分析cos委托，一场单主和委托coser的合作造梦，理想亲密关系和自我认知的游乐场。 | an academic analysis of cosplay commissions — a dream-making collaboration between commissioner and coser, a playground for ideal intimacy and self-perception |
-| [Leon](https://leoneckert.com/) | 浏览器作为乐器 | using the browser as a musical instrument |
+| [Leon](https://leoneckert.com/) | 浏览器作为乐器 | browser as musical instrument |
 | 经纬 | 开发中的2个独立游戏。一个是经营书店的游戏，每日要完成新书上架、帮助客人找书、整理书籍等日常事务；一个模拟DJ的游戏，扮演一个DJ在地下酒吧里用黑胶唱机为客人们放音乐。 | two indie games in development — one about running a bookstore, shelving new arrivals and helping customers; another simulating a DJ in an underground bar playing vinyl sets |
 | LUO | 互联网技术史中，计算机的象征转型与技术路程。 | tracing the symbolic transformations and technological trajectory of computers in internet history |
 | 天琦 | 根据真实事件设计的两个跑团模组，一个改编自70年代美国的社会事件，另一个关于瘟疫之下更好的生活。 | two tabletop RPG modules based on real events — one inspired by social incidents in 1970s America, the other imagining better lives under a plague |
@@ -65,13 +78,13 @@
 |----------|----------|----------|
 | 小龙花 | 把寻谣计划改编成桌面游戏 | adapting the “Song-Seeking Project” into a tabletop game |
 | deimos | [new game](https://deimosly.itch.io/) | [new game](https://deimosly.itch.io/) |
-| PearPeach | 极简桌游设计 | minimalist board game design |
+| [PearPeach](https://yaopeihu.github.io/) | 极简桌游设计 | minimalist board game design |
 | 阿柴Achiya + 7acques | 治愈做蛋小游戏 | a small, soothing egg-making game |
 | 7acques | 自制开源掌机 | a self-made open-source handheld console |
 | dumo | 因足球所得到的灵感——32块模版组成一个最小世界，思考是否能将32面与符号相联系，来制作一套认知导航的桌游卡牌。 | inspired by football — a world built from 32 templates, exploring connections between geometry and meaning through a cognitive navigation card game |
-| 海域 | 用商用的建筑软件Grasshopper来制作音乐 | making music using the architectural software Grasshopper |
-| 琦正 | “他者的想象”的项目，以国际象棋为对象，探讨跨文化误读现象 | *The Imagination of the Other* — a project using chess to explore cross-cultural misreadings |
-| TracySuna | 实时AI交互转绘Live-Diffusion作品。通过摄像头、传感器与人和环境交互的实时generative AI图像 | a Live-Diffusion piece of real-time AI image transfer — interacting with people and environments through cameras and sensors |
+| [海域](parages.github.io) | 用商用的建筑软件Grasshopper来制作音乐 | making music using the architectural software Grasshopper |
+| 琦正 | “他者的想象”的项目，以国际象棋为对象，探讨跨文化误读现象 | *The Imagination of the Other*,a project using chess to explore cross-cultural misreadings |
+| [TracySuna](https://liveoctopus.cargo.site/) | 实时AI交互转绘Live-Diffusion作品。通过摄像头、传感器与人和环境交互的实时generative AI图像 | a Live-Diffusion piece of real-time AI image transfer — interacting with people and environments through cameras and sensors |
 | Cecilia | 让前来聚集的人们一同举起手机拍摄、观看、发声的视频通讯机制 | a participatory video communication system where gathered people record, watch, and speak together |
 | Vortex | 一款分屏节奏塔防游戏 | a split-screen rhythm tower defense game |
 | Gogo和树 | 为AI画羊，AI描述各种稀奇古怪的羊，玩家要尽力画到AI认可为止 | drawing sheep for an AI — players sketch strange sheep until the AI finally approves |
