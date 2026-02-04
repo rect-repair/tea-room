@@ -10,10 +10,10 @@
 
 | 👥 | ㊥ | ☕️
 |----------|----------|----------|
-| 王懿EAU | 从0开始制作一台人工声音制造机 | building a synthetic sound machine from 0 |
-| 黑眼圈 | 3天，3分钟，情绪应该怎么写 | 3 days, 3 Minutes, how should emotion be written |
-| 周莲岸 | 老式DV做灯光秀 | using old DV Camera for vj |
-| CHOCHO | 厨房里的即兴练习 | improv practices in the kitchen |
+| [王懿EAU](https://www.instagram.com/eau_yiyiyi/) | 从0开始制作一台人工声音制造机 | building a synthetic sound machine from 0 |
+| [黑眼圈](https://www.instagram.com/skene047/) | 3天，3分钟，情绪应该怎么写 | 3 days, 3 Minutes, how should emotion be written |
+| [周蓬岸](https://www.caa-ins.org/archives/tag/%E5%91%A8%E8%93%AC%E5%B2%B8) | 老式DV做灯光秀 | using old DV Camera for vj |
+| [CHOCHO](https://www.instagram.com/cho.cho.choo/) | 厨房里的即兴练习 | improv practices in the kitchen |
 
 
 
